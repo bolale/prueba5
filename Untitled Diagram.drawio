@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T03:00:06.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="tVU6RiCbFH-G9LJnLp6O" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T03:01:00.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="RSs08X8lTYIAPG0arnlO" version="16.5.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="2024" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
           <mxGeometry x="940" y="120" width="165" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="2026" value="Data &lt;br&gt;Storage" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="2026" value="Data &lt;br&gt;Warehouse" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="760" y="120" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2027" value="Compute" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
